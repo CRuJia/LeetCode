@@ -44,11 +44,9 @@ class Solution:
                 carry = (l1.val + l2.val + carry)//10
                 l1 = l1.next
                 l2 = l2.next
-            print(sum)
             weishu *=10
         if carry !=0:
             sum = sum + carry*weishu
-        print(sum)
         return self.list2link(sum)
 
     # def addTwoNumbers(self, l1, l2):
@@ -126,7 +124,6 @@ def main():
     l2 = s.list2link(465)
 
     a = s.addTwoNumbers(l, l2)
-    print(a)
     while a:
         print(a.val)
         a = a.next
