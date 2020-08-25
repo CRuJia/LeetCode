@@ -19,15 +19,14 @@
 我们需要理清**子序列**（subsequence）和**子数组（字串、连续序列、substring）**的差别，前者明显比后者要复杂一点，因为前者是不连续的序列，后者是连续的序列，从复杂度来看也很清楚能看到即使穷举子序列也比穷举子数组要复杂很多。
 ## 例题
 
-- [300.最长上升子序列](https://github.com/CRuJia/LeetCode/blob/master/DP/300.Longest%20increasing%20Subsequence.py)
-- [53.最大子序和]()
-- [1143. 最长公共子序列]()
-- [674.最长连续递增序列](https://github.com/CRuJia/LeetCode/blob/master/DP/674.Longest%20Continuous%20Increasing%20Subsequence.py)
-- [5.最长回文子串](https://github.com/CRuJia/LeetCode/blob/master/DP/5.%20Longest%20Palindromic%20Substring.py)
-- [516.最长回文子序列](https://github.com/CRuJia/LeetCode/blob/master/DP/516.Longest%20Palindromic%20Subsequence.py)
-- [72.编辑距离]()
-- [198.打家劫舍]()
-- [213.打家劫舍II]()
+- [300.最长上升子序列](https://github.com/CRuJia/LeetCode/blob/master/2.DP/300.Longest%20increasing%20Subsequence.py)
+- [53.最大子序和](https://github.com/CRuJia/LeetCode/blob/master/2.DP/53.Maximum%20Subarray.py)
+- [1143. 最长公共子序列]
+- [674.最长连续递增序列](https://github.com/CRuJia/LeetCode/blob/master/2.DP/674.Longest%20Continuous%20Increasing%20Subsequence.py)
+- [5.最长回文子串](https://github.com/CRuJia/LeetCode/blob/master/2.DP/5.%20Longest%20Palindromic%20Substring.py)
+- [516.最长回文子序列](https://github.com/CRuJia/LeetCode/blob/master/2.DP/516.Longest%20Palindromic%20Subsequence.py)
+- [198.打家劫舍]
+- [213.打家劫舍II]
 
 
 ## 参考

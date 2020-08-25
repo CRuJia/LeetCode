@@ -19,13 +19,13 @@ dict中的键不允许重复
 通过将原有序列的映射关系统一表示为其他
 
 ### 例题
-- [349.两个数组的交集]
-- [350.两个数组的交集]
-- [242.有效的字母异位词]
-- [202.快乐数]
-- [290.单词规律]
-- [205.同构字符串]() 和290类似，使用map函数
-- [451.根据字符出现频率排序]
+- [349.两个数组的交集](https://github.com/CRuJia/LeetCode/blob/master/3.Search/349.Intersection%20of%20Two%20Arrays.py)
+- [350.两个数组的交集](https://github.com/CRuJia/LeetCode/blob/master/3.Search/350.Intersection%20of%20Two%20Arrays%20II.py)
+- [242.有效的字母异位词](https://github.com/CRuJia/LeetCode/blob/master/3.Search/242.Valid%20Anagram.py)
+- [202.快乐数](https://github.com/CRuJia/LeetCode/blob/master/3.Search/202.Happy%20Number.py)
+- [290.单词规律](https://github.com/CRuJia/LeetCode/blob/master/3.Search/290.Word%20Pattern.py)
+- [205.同构字符串](https://github.com/CRuJia/LeetCode/blob/master/3.Search/205.Isomorphic%20Strings.py) 和290类似，使用map函数
+- [451.根据字符出现频率排序](https://github.com/CRuJia/LeetCode/blob/master/3.Search/451.Sort%20Characters%20By%20Frequency.py)
 
 ## 二、对撞指针
 ## 三、滑动数组
@@ -52,6 +52,6 @@ class Solution:
         return lo
 ```
 
-- [35.搜索插入位置]
-- [ ] [410.分割数组的最大值]()
-- [540.有序数组中的单一元素]
+- [35.搜索插入位置](https://github.com/CRuJia/LeetCode/blob/master/3.Search/35.Search%20Insert%20Position.py)
+- [ ] [410.分割数组的最大值](https://github.com/CRuJia/LeetCode/blob/master/3.Search/410.Split%20Array%20Largest%20Sum.py)
+- [540.有序数组中的单一元素](https://github.com/CRuJia/LeetCode/blob/master/3.Search/540.Single%20Element%20in%20a%20Sorted%20Array.py)
